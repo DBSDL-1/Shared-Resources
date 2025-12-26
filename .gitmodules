@@ -1,0 +1,12 @@
+[submodule "Encyclopedias"]
+	path = Encyclopedias
+	url = https://github.com/DBSDL-1/Encyclopedias.git
+[submodule "Dictionaries"]
+	path = Dictionaries
+	url = https://github.com/DBSDL-1/Dictionaries.git
+[submodule "News"]
+	path = News
+	url = https://github.com/DBSDL-1/News.git
+[submodule "Others"]
+	path = Others
+	url = https://github.com/DBSDL-1/Others.git
